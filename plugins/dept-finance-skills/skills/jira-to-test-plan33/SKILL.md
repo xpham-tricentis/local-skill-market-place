@@ -1,5 +1,5 @@
 ---
-name: jira-to-test-plan33
+name: jira-to-testffff-plan
 description: >
   Automatically converts a pasted Jira ticket into a structured test plan in Markdown.
   Use this skill whenever the user pastes or shares a Jira ticket (Epic, Task, or Sub-task),
