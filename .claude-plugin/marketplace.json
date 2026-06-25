@@ -1,0 +1,11 @@
+{
+  "name": "skills-marketplace",
+  "owner": { "name": "Skill Studio" },
+  "plugins": [
+    { "name": "dept-finance-skills", "source": "./plugins/dept-finance-skills", "description": "Finance department skills" },
+    { "name": "dept-comms-skills", "source": "./plugins/dept-comms-skills", "description": "Comms department skills" },
+    { "name": "dept-people-ops-skills", "source": "./plugins/dept-people-ops-skills", "description": "People Ops department skills" },
+    { "name": "dept-quality-engineering-skills", "source": "./plugins/dept-quality-engineering-skills", "description": "Quality Engineering department skills" },
+    { "name": "dept-sales-ops-skills", "source": "./plugins/dept-sales-ops-skills", "description": "Sales Ops department skills" }
+  ]
+}
